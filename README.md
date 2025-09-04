@@ -2,11 +2,8 @@
 
 A classic memory game built using **HTML**, **CSS**, and **JavaScript**. Test your memory by following the sequence of flashes—each level adds a new color to remember!
 
-## 📸 Preview
-![Simon Says Game Screenshot](assets/screenshot.png) <!-- Replace with your actual image path -->
-
 ## 🚀 Live Demo
-[Click here to play the game](https://your-live-demo-link.com) <!-- Replace with your actual link -->
+[Click here to play the game](https://68b92b56c90c42ba1fbf0a47--frabjous-elf-733c9a.netlify.app/) 
 
 ---
 
